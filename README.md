@@ -1,1 +1,3 @@
 # DiagnosticTool
+
+This GitHub Repository hosts my Research Paper for my HighSchool Science Fair Project. This project included the development of a wearable Arduino uno board with a heart rate monitor, a Python script to detect abnormal heart rates, and an android application to show the user's heart rate values, heart rate trends, and potential remedies. The developed device had a 96% success rate with a total cost of production at $27. This project was awarded 1st place at the Kentucky Science and Engineering Fair, and an Intel cash award for excellence in Computer Science at the local and state levels. 
